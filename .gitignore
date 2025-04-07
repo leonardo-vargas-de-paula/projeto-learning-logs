@@ -1,0 +1,23 @@
+# Ambientes virtuais
+ll_env/
+venv/
+env/
+
+
+__pycache__/
+*.py[cod]
+
+
+*.sqlite3
+
+# Configs do editor
+.vscode/s
+.idea/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+
+
+*/migrations/__pycache__/
